@@ -18,7 +18,3 @@ El flujo de procesamiento se divide en tres ramas principales que convergen en u
 - Robustez Técnica: El uso de pipelines permite que el modelo procese datos "sucios" o incompletos automáticamente sin errores de ejecución.
 - Interpretabilidad: Gracias al método get_feature_names_out, podemos rastrear exactamente cómo influye cada variable original en la decisión final del modelo.
 - Escalabilidad: El sistema está diseñado para integrarse con herramientas de despliegue, permitiendo pasar de datos crudos a predicciones en un solo paso.
-
-Interpretabilidad: Gracias al método get_feature_names_out, podemos rastrear exactamente cómo influye cada variable original en la decisión final del modelo.
-
-Escalabilidad: El sistema está diseñado para integrarse con herramientas de despliegue, permitiendo pasar de datos crudos a predicciones en un solo paso.
